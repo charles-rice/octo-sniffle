@@ -1,3 +1,4 @@
+```
 +-- config.yml  
 +-- drafts  
 |   +-- begin-with-the-crazy-ideas.textile  
@@ -15,7 +16,7 @@
 |   +-- members.yml  
 +-- site  
 +-- index.html  
-
+```
 ```
 project
 │   README.md
