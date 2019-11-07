@@ -39,7 +39,7 @@ project
 
 `tree --dirsfirst --charset=ascii /path/to/directory`
 Produces:
-
+```
 |-- ContentStore  
 |   |-- de-DE  
 |   |   |-- art.mshc  
@@ -70,3 +70,4 @@ Produces:
         |-- noarm.mshi  
         |-- resources.mshi  
         `-- windowsclient.mshi  
+```
